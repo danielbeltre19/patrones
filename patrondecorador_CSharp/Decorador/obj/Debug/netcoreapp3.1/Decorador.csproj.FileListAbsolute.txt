@@ -1,0 +1,13 @@
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\bin\Debug\netcoreapp3.1\Decorador.exe
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\bin\Debug\netcoreapp3.1\Decorador.deps.json
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\bin\Debug\netcoreapp3.1\Decorador.runtimeconfig.json
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\bin\Debug\netcoreapp3.1\Decorador.runtimeconfig.dev.json
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\bin\Debug\netcoreapp3.1\Decorador.dll
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\bin\Debug\netcoreapp3.1\Decorador.pdb
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\obj\Debug\netcoreapp3.1\Decorador.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\obj\Debug\netcoreapp3.1\Decorador.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\obj\Debug\netcoreapp3.1\Decorador.AssemblyInfo.cs
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\obj\Debug\netcoreapp3.1\Decorador.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\obj\Debug\netcoreapp3.1\Decorador.dll
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\obj\Debug\netcoreapp3.1\Decorador.pdb
+C:\Users\daniel\Desktop\clases\4-cuatrimestre\Programacion 2\patronDecorador_CSharp2\Decorador\obj\Debug\netcoreapp3.1\Decorador.genruntimeconfig.cache
